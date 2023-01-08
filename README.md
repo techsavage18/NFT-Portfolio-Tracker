@@ -8,4 +8,7 @@ We will be continuing this project and using NFT Port's API to build an interact
 
 We will also be building a portfolio battle with other wallets which compares stuff with some important metrics and show the portfolio in a gamified manner. 
 
+Video Demo:https://streamable.com/s7m2ac
+
+
 APK Link: https://drive.google.com/file/d/1V-HIGW1V9DPlfAdoZhnX5yshW5RK5fo4/view?usp=sharing
